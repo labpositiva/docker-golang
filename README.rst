@@ -5,7 +5,7 @@ Golango with Glide
 
 |Build Status| |Docker Stars| |Docker Pulls| |Code Climate| |GitHub stars| |Issue Count| |license| |Test Coverage|
 
-:Version: 0.0.0
+:Version: 0.0.1
 :Web: https://github.com/labpositiva/docker-golang
 :Download: https://github.com/labpositiva/docker-golang
 :Source: https://github.com/labpositiva/docker-golang
